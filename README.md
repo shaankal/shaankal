@@ -1,62 +1,46 @@
-## Hi there 👋 I'm Shaan
+Hi there 👋
 
-I'm a **Computer Science & Data Science student at the University of Wisconsin–Madison** interested in **machine learning, data analytics, and large-scale systems**.
+I'm **Shaan**, a Computer Science & Data Science student at **University of Wisconsin–Madison**.
 
-I enjoy building systems that turn **large datasets into actionable insights**, especially in areas like **sports analytics, machine learning, and data infrastructure**.
+I enjoy building systems that turn **large datasets into insights**, especially in **machine learning, sports analytics, and data infrastructure**.
 
----
-
-## 🚀 What I'm currently working on
-
-- 🧠 **NFL Decision-Making Analytics Engine**  
-  Machine learning pipeline analyzing quarterback decisions using NFL tracking data.
-
-- 📊 **Sports Analytics & ML Research**  
-  Building models and dashboards to evaluate player performance from large tracking datasets.
-
-- ⚙️ **Data Pipelines & Analytics Workflows**  
-  Designing Python + SQL pipelines for large-scale data analysis.
+If there's a dataset worth exploring, chances are I'll try to model it.
 
 ---
 
-## 🛠 Tools & Technologies
+### Currently Working On
 
-**Languages**  
-Python • SQL • Java • R • JavaScript
-
-**Data Science / ML**  
-scikit-learn • TensorFlow • PyTorch • XGBoost • pandas • NumPy
-
-**Analytics & Visualization**  
-Matplotlib • seaborn • Plotly • Tableau • Looker
-
-**Backend / Tools**  
-FastAPI • REST APIs • Git • Linux • Jupyter • React
-
-**Specialized**  
-Computer Vision (OpenCV, YOLOv8, ConvLSTM)
+• NFL Decision-Making Analytics Engine  
+• Machine learning models for sports analytics  
+• Python + SQL data pipelines for large datasets
 
 ---
 
-## 📂 Featured Projects
+### Tech Stack
 
-🔹 **NFL Decision-Making Analytics Engine**  
-ML pipeline analyzing 50k+ plays to evaluate quarterback decisions.
+**Languages:** Python, SQL, Java, R, JavaScript  
+**ML / Data:** scikit-learn, TensorFlow, PyTorch, pandas, NumPy  
+**Visualization:** Matplotlib, seaborn, Plotly  
+**Tools:** Git, Linux, FastAPI, Jupyter, React  
+**Computer Vision:** OpenCV, YOLOv8, ConvLSTM
 
-🔹 **SmartLife Personal Insights API**  
+---
+
+### Projects
+
+**NFL Decision-Making Analytics Engine**  
+ML pipeline analyzing quarterback decisions using NFL tracking data.
+
+**SmartLife Personal Insights API**  
 REST API generating statistical insights and data visualizations.
 
-🔹 **NFL EPA Analysis**  
-Modeling offensive efficiency using NFL play-by-play data.
+**NFL EPA Analysis**  
+Analyzing 50k+ NFL plays to model offensive efficiency.
 
 ---
 
-## 📫 How to reach me
+### Contact
 
-- Email: **skalgaonkar@wisc.edu**
-- LinkedIn: **linkedin.com/in/shaan-kalgaonkar**
-- GitHub: **github.com/shaankal**
-
----
-
-⭐ Always interested in collaborating on **data science, ML, and analytics projects.**
+Email: skalgaonkar@wisc.edu  
+LinkedIn: linkedin.com/in/shaan-kalgaonkar  
+GitHub: github.com/shaankal
