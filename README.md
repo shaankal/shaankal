@@ -31,8 +31,8 @@ If there's a dataset worth exploring, chances are I'll try to model it.
 **NFL Decision-Making Analytics Engine**  
 ML pipeline analyzing quarterback decisions using NFL tracking data.
 
-**SmartLife Personal Insights API**  
-REST API generating statistical insights and data visualizations.
+**[SmartLife — Personal Insights API](https://github.com/shaankal/SmartLife)**  
+REST API built with FastAPI that analyzes personal metrics using statistical models, anomaly detection, and visualization pipelines.
 
 **NFL EPA Analysis**  
 Analyzing 50k+ NFL plays to model offensive efficiency.
