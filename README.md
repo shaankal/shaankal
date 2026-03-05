@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm **Shaan**, a Computer Science & Data Science student at **University of Wisconsin–Madison**.
 
-I enjoy building systems that turn **large datasets into insights**, especially in **machine learning, sports analytics, and data infrastructure**.
+I'm interested in **machine learning, data analytics, and building systems that turn large datasets into actionable insights**, especially in **sports analytics and data infrastructure**.
 
 If there's a dataset worth exploring, chances are I'll try to model it.
 
@@ -45,6 +45,6 @@ Email: skalgaonkar@wisc.edu
 LinkedIn: linkedin.com/in/shaan-kalgaonkar  
 GitHub: github.com/shaankal
 
-<img src="https://github-readme-stats.vercel.app/api?username=shaankal&show_icons=true&theme=tokyonight" height="150">
+![Shaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaankal&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaankal&layout=compact&theme=tokyonight" height="150">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaankal&layout=compact&theme=tokyonight)
