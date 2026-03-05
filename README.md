@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm **Shaan**, a Computer Science 💻 & Data Science 📊 student at **University of Wisconsin–Madison 🦡**.
+I'm **Shaan**, a Computer Science & Data Science student at **University of Wisconsin–Madison 🦡**.
 
 I'm interested in **machine learning 🤖, data analytics 📈, and building systems that turn large datasets into actionable insights**, especially in **sports analytics 🏈 and data infrastructure ⚙️**.
 
