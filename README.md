@@ -18,11 +18,12 @@ If there's a dataset worth exploring, chances are I'll try to model it.
 
 ### 🛠️ Tech Stack
 
-**Languages 💻:** Python, SQL, Java, R, JavaScript, C, C++
-**ML / Data 🤖📊:** scikit-learn, TensorFlow, PyTorch, pandas, NumPy  
-**Visualization 📈:** Matplotlib, seaborn, Plotly  
-**Tools ⚙️:** Git, Linux, FastAPI, Jupyter, React  
-**Computer Vision 👁️:** OpenCV, YOLOv8, ConvLSTM
+- **Languages 💻:** Python, SQL, Java, R, JavaScript, C, C++  
+- **ML / Data 🤖📊:** scikit-learn, TensorFlow, PyTorch, pandas, NumPy  
+- **Visualization 📈:** Matplotlib, seaborn, Plotly  
+- **Tools ⚙️:** Git, Linux, FastAPI, Jupyter, React  
+- **Computer Vision 👁️:** OpenCV, YOLOv8, ConvLSTM
+
 
 ---
 
