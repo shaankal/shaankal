@@ -45,6 +45,6 @@ Email: skalgaonkar@wisc.edu
 LinkedIn: linkedin.com/in/shaan-kalgaonkar  
 GitHub: github.com/shaankal
 
-![Shaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaankal&show_icons=true&theme=tokyonight)
+![Shaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaankal&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaankal&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaankal&layout=compact&theme=tokyonight&hide_border=true)
