@@ -37,15 +37,6 @@ REST API built with FastAPI that analyzes personal metrics using statistical mod
 **📊 [NFL EPA Analysis](https://github.com/shaankal/EPADefenseProject)**  
 Analyzing 50k+ NFL plays to model offensive efficiency.
 
-**🔎 Search Engine**  
-Built an information retrieval system with crawling, inverted indexing, and ranking using TF-IDF.
-
-**⚡ Distributed Streaming Data Pipeline**  
-Real-time analytics pipeline using Kafka and Python for processing streaming datasets.
-
-**🎯 Recommendation System**  
-Machine learning recommendation engine using collaborative filtering and similarity modeling.
-
 ---
 
 ### 📬 Contact
