@@ -10,36 +10,36 @@ If there's a dataset worth exploring, chances are I'll try to model it.
 
 ### 🚧 Currently Working On
 
-• 🏈 Film Room — AI-powered NFL football IQ training app (iOS)
-• 🔎 Search Engine (Information Retrieval System)  
-• ⚡ Real-time Data Streaming Pipeline with Kafka  
+- 🏈 Film Room — AI-powered NFL football IQ training app (iOS)
+- 🔎 Search Engine (Information Retrieval System)
+- ⚡ Real-time Data Streaming Pipeline with Kafka
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages 💻:** Python, SQL, Java, R, JavaScript, C, C++  
-- **ML / Data 🤖📊:** scikit-learn, TensorFlow, PyTorch, pandas, NumPy  
-- **Visualization 📈:** Matplotlib, seaborn, Plotly  
-- **Tools ⚙️:** Git, Linux, FastAPI, Jupyter, React  
+- **Languages 💻:** Python, SQL, Java, R, JavaScript, C, C++
+- **ML / Data 🤖📊:** scikit-learn, TensorFlow, PyTorch, pandas, NumPy
+- **Visualization 📈:** Matplotlib, seaborn, Plotly
+- **Tools ⚙️:** Git, Linux, FastAPI, Jupyter, React
 - **Computer Vision 👁️:** OpenCV, YOLOv8, ConvLSTM
 
 ---
 
 ### 🚀 Projects
 
-**🏈 Film Room
+**🏈 Film Room** *(In Development)*
 iOS app that trains football IQ using AI-generated X's & O's scenarios. 9 position modes (QB, WR, RB, TE, CB, S, LB, OC, DC), 4 difficulty tiers, and an adaptive learning system powered by Claude and OpenAI Codex.
 
-**🧠 [SmartLife — Personal Insights API](https://github.com/shaankal/SmartLife)**  
+**🧠 [SmartLife — Personal Insights API](https://github.com/shaankal/SmartLife)**
 REST API built with FastAPI that analyzes personal metrics using statistical models, anomaly detection, and visualization pipelines.
 
-**📊 [NFL EPA Analysis](https://github.com/shaankal/EPADefenseProject)**  
+**📊 [NFL EPA Analysis](https://github.com/shaankal/EPADefenseProject)**
 Analyzing 50k+ NFL plays to model offensive efficiency.
 
 ---
 
 ### 📬 Contact
 
-📧 Email: skalgaonkar@wisc.edu  
-🔗 LinkedIn: linkedin.com/in/shaan-kalgaonkar  
+📧 Email: skalgaonkar@wisc.edu
+🔗 LinkedIn: linkedin.com/in/shaan-kalgaonkar
