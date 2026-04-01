@@ -28,7 +28,7 @@ If there's a dataset worth exploring, chances are I'll try to model it.
 
 ### 🚀 Projects
 
-**🏈 Film Room** *(In Development)*
+**🏈 [Film Room(_In Development_)](https://github.com/shaankal/filmroom)** 
 iOS app that trains football IQ using AI-generated X's & O's scenarios. 9 position modes (QB, WR, RB, TE, CB, S, LB, OC, DC), 4 difficulty tiers, and an adaptive learning system powered by Claude and OpenAI Codex.
 
 **🧠 [SmartLife — Personal Insights API](https://github.com/shaankal/SmartLife)**
